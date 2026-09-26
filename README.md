@@ -1,4 +1,4 @@
-**# 👋 Hi, I'm Ansh Asthana
+### 👋 Hi, I'm Ansh Asthana
 
 ### B.Tech CSE (AI & ML) Student | Python | Machine Learning | DSA
 
